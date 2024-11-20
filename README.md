@@ -7,7 +7,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 - hyperspectral change detection
 
 📫 **How to reach me**:
-- ❗Wechat: BatAug
+- ❗Wechat: ...
 - This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
 - This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: xushuyi22@mails.ucas.ac.cn

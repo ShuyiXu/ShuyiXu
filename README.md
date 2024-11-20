@@ -1,4 +1,4 @@
-# $\color{black}{我的微信(WeChat): ...，欢迎交流与合作}$
+# $\color{black}{我的微信(WeChat): ，欢迎交流与合作}$
 ### Hi there, I'm [Shuyi Xu]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.

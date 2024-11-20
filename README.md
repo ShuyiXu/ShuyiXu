@@ -14,7 +14,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 
 
 **Publications**:
-+  [1] `Jiaxin Li`, Ke Zheng, Lianru Gao, Li Ni, Min Huang, Jocelyn Chanussot.  Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 1-17. [Paper link](https://ieeexplore.ieee.org/document/10504844) [Code](https://github.com/JiaxinLiCAS/M2U-Net)
++  [1] `S. Xu`, L. Cai, H. Sun, X. Sun, L. Yang and L. Gao, "Adaptive Endmembers Learning-Based Deep Unmixing Network for Hyperspectral Change Detection," IGARSS 2024 ,[Paper link](https://ieeexplore.ieee.org/document/10640672)
 
 <!--
 **JiaxinLiCAS/JiaxinLiCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

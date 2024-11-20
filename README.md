@@ -8,10 +8,11 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 
 📫 **How to reach me**:
 - ❗Wechat: ...
+- <!--
 - This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
 - This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
 - This is my email: xushuyi22@mails.ucas.ac.cn
-
+-->
 
 **Publications**:
 +  [1] `S. Xu`, L. Cai, H. Sun, X. Sun, L. Yang and L. Gao, "Adaptive Endmembers Learning-Based Deep Unmixing Network for Hyperspectral Change Detection," IGARSS 2024 ,[Paper link](https://ieeexplore.ieee.org/document/10640672)

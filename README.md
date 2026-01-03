@@ -1,4 +1,4 @@
-# $\color{black}{Welcome to my Homepage！}$
+# Welcome to my Homepage！
 ### Hi there, I'm [Shuyi Xu]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.

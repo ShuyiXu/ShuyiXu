@@ -4,7 +4,8 @@
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 
 🔭 **Reseach-wise, I mainly focus on**:
-- hyperspectral change detection
+- hyperspectral image processing
+- multi-temporal image change detection
 
 📫 **How to reach me**:
 - ❗Wechat: ...

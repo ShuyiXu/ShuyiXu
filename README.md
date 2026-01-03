@@ -17,6 +17,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 
 **Publications**:
 +  [1] `S. Xu`, L. Cai, H. Sun, X. Sun, L. Yang and L. Gao, "Adaptive Endmembers Learning-Based Deep Unmixing Network for Hyperspectral Change Detection," IGARSS 2024 ,[Paper link](https://ieeexplore.ieee.org/document/10640672)
++  [2] L. Cai, `S. Xu`, H. Sun, X. Sun, L. Yang and L. Gao, "Primary Modality Guided Multimodal Change Detection," IGARSS 2024 ,[Paper link](https://ieeexplore.ieee.org/document/10640769)
 
 <!--
 **JiaxinLiCAS/JiaxinLiCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

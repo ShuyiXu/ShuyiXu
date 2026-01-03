@@ -1,4 +1,4 @@
-# $\color{black}{欢迎交流与合作}$
+# $\color{black}{Welcome}$
 ### Hi there, I'm [Shuyi Xu]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
@@ -8,7 +8,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 - multi-temporal image change detection
 
 📫 **How to reach me**:
-- ❗Wechat: ...
+- ❗Email: ...
 - <!--
 - This my researchgate [researchgate](https://www.researchgate.net/profile/Li-Jiaxin-20)
 - This is my Google Scholar [GS](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)
